@@ -1,2 +1,1 @@
-# ElevateLabs_SQL_task4
-Use of Aggregate Functions and GROUP BY clause 
+This repository stores important aggregation and grouping concepts of SQL. Different aggregate functions like SUM(), AVG(), MIN(), MAX(), and COUNT() have been used to obtain useful information about the data. The ROUND() function has also been employed to round payment amounts for easy readability. The GROUP BY clause has been utilized to aggregate records based on certain columns, together with the HAVING clause to screen aggregated records. Additionally, payments were classified as LOW, MEDIUM, and HIGH applying conditional logic along with grouping. Occupancy report based on from_date was prepared to study trends in bookings. All the work was done using SQL Workbench.
